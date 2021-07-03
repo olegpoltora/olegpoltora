@@ -64,6 +64,7 @@ PDF printable version: [Oleg Poltoratskii – Java Developer – resume (PDF)](h
 #### Networks
 
 - [Link up with me at LinkedIn](https://www.linkedin.com/in/poltora)
+- [Collaborate with me at GitHub](https://github.com/olegpoltora)
 - [Follow me on Instagram](https://www.instagram.com/oleg.poltora/)
 
 
