@@ -21,6 +21,7 @@ Development for Java EE platform with using **frameworks/technologies:** Spring,
 - Glossary of trade assortment for large trading marketplace. Development objects to glossary binding algorithms, analysis of unstructured data.
 - Platform for real estate agencies with inter-company data exchange and demand-supply matching.
 - Intelligent replication system between unlimited number of distributed data center in order to ensure system resilience with increased reliability requirements — in project «Situation center 112».
+- Implementation of increased protection against employees fraud in contracts reference system for JSC [«Kubanenergo»](http://kubanenergo.ru/eng/).
 - [«Navstat»](http://navstat.ru) — vehicle monitoring system.
 - Information portal [«Otdih Na Kubani.ru»](http://otdih.nakubani.ru) — speed data storage, core stabilization, two level cache system, load balancing, search system.
 - Information portal [«Yuga.ru»](http://yuga.ru), the most famous sections are news, business, art event schedule, musical lounge, job applications, statistics, chat.
