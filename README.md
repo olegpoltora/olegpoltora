@@ -40,12 +40,28 @@ PDF printable version: [Oleg Poltoratskii – Java Developer – resume (PDF)](h
 
 *Open-source projects and tools I am an author of or involved in*
 
+### PerformanceMeasurer
+
+Open source Java library for getting information about workflow of Java application        [GitHub](https://github.com/olegpoltora/PerformanceMeasurer)
+
 [more details…](https://poltora.info/project/) 
 
 
 ## Nuances of Java development
 
 *This blog is about Java development and describes in detail the most interesting topics*
+
+### All you want to know about Singleton
+
+The singleton design pattern is one of the most inappropriately used patterns. In this article we review several implementations of a singleton that work correctly in multithreaded environment, with serialization and cloning tasks and even with reflection attacks.
+
+### SynchronousQueue VS TransferQueue
+
+One addition in Java 7 is an interface TransferQueue in addition already exists from Java 5 SynchronousQueue. What is the reason of new interface?          
+
+### How to use ConcurrentHashMap in Java
+
+Before Java 1.5, if you need Map implementation, which can be safely used in multithreading Java-application, you have only Hashtable or synchronized Map, because HashMap is NOT safe.
 
 [more details…](https://poltora.info/blog/) 
 
@@ -65,7 +81,7 @@ PDF printable version: [Oleg Poltoratskii – Java Developer – resume (PDF)](h
 
 - [Link up with me at LinkedIn](https://www.linkedin.com/in/poltora)
 - [Collaborate with me at GitHub](https://github.com/olegpoltora)
-- [Follow me on Instagram](https://www.instagram.com/oleg.poltora/)
+
 
 
 
