@@ -36,32 +36,32 @@ Development for Java EE platform with using **frameworks/technologies:** Spring,
 PDF printable version: [Oleg Poltoratskii – Java Developer – resume (PDF)](https://poltora.info/cv/Oleg-Poltoratskii-Developer-CV.pdf)
 
 
-## [Open-source projects](https://poltora.info/project/)
+## Open-source projects
 
 *Open-source projects and tools I am an author of or involved in*
 
-### [PerformanceMeasurer](https://poltora.info/project/performance-measurer/)
+### PerformanceMeasurer
 
-Open source Java library for getting information about workflow of Java application        [GitHub](https://github.com/olegpoltora/PerformanceMeasurer)
+Open source Java library for getting information about workflow of Java application [more details…](https://poltora.info/project/performance-measurer/)        [GitHub](https://github.com/olegpoltora/PerformanceMeasurer)
 
 [more details…](https://poltora.info/project/) 
 
 
-## [Nuances of Java development](https://poltora.info/blog/)
+## Nuances of Java development
 
 *This blog is about Java development and describes in detail the most interesting topics*
 
-### [All you want to know about Singleton](https://poltora.info/blog/all-you-want-to-know-about-singleton/)
+### All you want to know about Singleton
 
-The singleton design pattern is one of the most inappropriately used patterns. In this article we review several implementations of a singleton that work correctly in multithreaded environment, with serialization and cloning tasks and even with reflection attacks.
+The singleton design pattern is one of the most inappropriately used patterns. In this article we review several implementations of a singleton that work correctly in multithreaded environment, with serialization and cloning tasks and even with reflection attacks. [more details…](https://poltora.info/blog/all-you-want-to-know-about-singleton/)
 
-### [SynchronousQueue VS TransferQueue](https://poltora.info/blog/synchronousqueue-vs-transferqueue/)
+### SynchronousQueue VS TransferQueue
 
-One addition in Java 7 is an interface TransferQueue in addition already exists from Java 5 SynchronousQueue. What is the reason of new interface?          
+One addition in Java 7 is an interface TransferQueue in addition already exists from Java 5 SynchronousQueue. What is the reason of new interface? [more details…](https://poltora.info/blog/synchronousqueue-vs-transferqueue/)
 
-### [How to use ConcurrentHashMap in Java](https://poltora.info/blog/how-to-use-concurrenthashmap-in-java/)
+### How to use ConcurrentHashMap in Java
 
-Before Java 1.5, if you need Map implementation, which can be safely used in multithreading Java-application, you have only Hashtable or synchronized Map, because HashMap is NOT safe.
+Before Java 1.5, if you need Map implementation, which can be safely used in multithreading Java-application, you have only Hashtable or synchronized Map, because HashMap is NOT safe. [more details…](https://poltora.info/blog/how-to-use-concurrenthashmap-in-java/)
 
 [more details…](https://poltora.info/blog/) 
 
