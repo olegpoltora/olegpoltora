@@ -71,11 +71,7 @@ Before Java 1.5, if you need Map implementation, which can be safely used in mul
 *I am interested in developing my business and professional relationships and always opened for offers. If you have something to discuss, please, contact me.*
 
 
-#### Direct
-
 - [Send me an e-mail](mailto:oleg@poltora.info)
-- [Call me by Telegram](https://t.me/olegpoltora)
-
 
 
 
