@@ -77,11 +77,6 @@ Before Java 1.5, if you need Map implementation, which can be safely used in mul
 - [Call me by Telegram](https://t.me/olegpoltora)
 
 
-#### Networks
-
-- [Link up with me at LinkedIn](https://www.linkedin.com/in/poltora)
-- [Collaborate with me at GitHub](https://github.com/olegpoltora)
-
 
 
 
