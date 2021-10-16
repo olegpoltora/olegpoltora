@@ -44,7 +44,6 @@ PDF printable version: [Oleg Poltoratskii – Java Developer – resume (PDF)](h
 
 Open source Java library for getting information about workflow of Java application [more details…](https://poltora.info/project/performance-measurer/)        [GitHub](https://github.com/olegpoltora/PerformanceMeasurer)
 
-[more details…](https://poltora.info/project/) 
 
 
 ## Nuances of Java development
@@ -63,7 +62,7 @@ One addition in Java 7 is an interface TransferQueue in addition already exists 
 
 Before Java 1.5, if you need Map implementation, which can be safely used in multithreading Java-application, you have only Hashtable or synchronized Map, because HashMap is NOT safe. [more details…](https://poltora.info/blog/how-to-use-concurrenthashmap-in-java/)
 
-[more details…](https://poltora.info/blog/) 
+
 
 
 ## Contact Me
