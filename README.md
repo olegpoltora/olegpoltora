@@ -8,9 +8,9 @@ I have experience in increasing stability and throughput of systems. I dealt wit
 
 ## Skills and specialization
 
-Software design and development more than 17 years. Experience in design and development customer data storage which includes issues of consistency and coherence of data. Creation cache system, design and development CMS. Using re-factoring, unit testing, design patterns and avoiding using anti-patterns. 
+Software design and development more than 17 years, including 7 years as a Java developer. Experience in design and development customer data storage which includes issues of consistency and coherence of data. Creation cache system, design and development CMS. Using re-factoring, unit testing, design patterns and avoiding using anti-patterns.
 
-Development for Java EE platform with using **frameworks/technologies:** Spring, EJB, Hibernate, Web services, Java Concurrency/Multithreading, NIO; **application servers**: GlassFish, JBoss AS; **web servers**: Tomcat, Jetty, Nginx; **DBMS**: Oracle, PostgreSQL, MySQL; **Clouds API**: DigitalOcean, AWS S3, AWS CloudFront. 
+Development for Java platform with using **frameworks/technologies**: Spring, EJB, Hibernate, Web services, Java Concurrency/Multithreading, NIO; **application servers**: GlassFish, JBoss AS; **web servers**: Tomcat, Jetty, Nginx; **DBMS**: Oracle, PostgreSQL, MySQL, Redis, Apache Derby; **Clouds API**: DigitalOcean, AWS S3, AWS CloudFront; **testing framework**: JUnit.
 
 ## Projects
 
