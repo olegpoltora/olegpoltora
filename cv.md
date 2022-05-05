@@ -1,5 +1,3 @@
-<blockquote class="fifth wo-borders right last"><img src="/cv/DSC_2588-300.jpg" alt="Oleg Poltoratskii"/></blockquote>
-
 # Oleg Poltoratskii – Technical Lead
 
 *Experienced Java Developer with a specialist's degree in computer science. I am interested in a career as a Software Engineer.*
