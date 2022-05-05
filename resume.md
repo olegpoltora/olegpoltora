@@ -1,10 +1,8 @@
-<blockquote class="fifth wo-borders right last"><img src="/cv/DSC_2588-300.jpg" alt="Oleg Poltoratskii"/></blockquote>
-
 # Oleg Poltoratskii – Technical Lead
 
 *Experienced Java Developer with a specialist's degree in computer science. I am interested in a career as a Software Engineer.*
 
-[{fa fa-envelope} oleg@poltora.info](mailto:oleg@poltora.info "Send me an e-mail") &nbsp; &nbsp; &nbsp;[{fa fa-paper-plane} olegpoltora](https://t.me/olegpoltora "Call me by Telegram")
+[oleg@poltora.info](mailto:oleg@poltora.info "Send me an e-mail") &nbsp; &nbsp; &nbsp;[olegpoltora](https://t.me/olegpoltora "Call me by Telegram")
 
 ## Skills and specialization
 
