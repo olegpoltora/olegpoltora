@@ -278,26 +278,10 @@ Open-source Java library for getting information about workflow of Java applicat
 
 ## Brief  CV
 
-[Oleg Poltoratskii – CV](:cv: "{:class='more':}")
+[Oleg Poltoratskii – CV](cv.md)
 
 ## Professional community
 
 [GitHub](https://github.com/olegpoltora "{:class='more':}") [LinkedIn](https://www.linkedin.com/in/poltora/ "{:class='more':}") [Career Habr](https://career.habr.com/poltora "{:class='more':}") [HeadHunter](https://krasnodar.hh.ru/resume/8fb8aed5ff0960528d0039ed1f4c454d426c57 "{:class='more':}") 
 
 
-
-
-
-~~~JBake
-poryadok=3
-title=Resume
-menu=Resume
-type=page
-status=published
-date=2022-03-25
-language=en
-description_=Java Developer with seven years of experience with Java platform and a specialist's degree in computer science. Determined and ambitious individual with a strong technical background and ability to lead. I am interested in a career in Software Engineering or in IT Project Management in a dynamic company.
-keywords=Java Software Engineer Resume, Java Software Engineer CV, Java Developer Resume, Java Developer CV, Oleg Poltoratskii resume, Oleg Poltoratskii CV
-scripts=fancybox
-robots=noimageindex
-~~~
