@@ -105,7 +105,7 @@ Skiing, snowboarding, rafting.
 
 ## Detailed resume
 
-[Oleg Poltoratskii – Resume](:resume: "{:class='more':}")
+[Oleg Poltoratskii – Resume](resume.md)
 
 ## Professional community
 
